@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SleepyLLama
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning asp.net , typescript 
+- 🌱 I’m currently learning asp.net , typescript , python and flask 
 - 💞️ I’m looking to collaborate on  open source projects 
 - 📫 How to reach me 
 
